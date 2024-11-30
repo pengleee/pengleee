@@ -5,7 +5,6 @@ Welcome to Peng's world！🌎🌍🌏
 - 🔭 I’m currently working on **Computational Linguistics** and **NLP**
 - 🌱 I’m currently learning **Neural Networks & Deep Learning**
 - 📫 How to reach me: [pengleee@outlook.com](mailto:pengleee@outlook.com)
-- 😄 Pronouns: He
 - 🎼 Fun fact: Love listening to to classical music when coding, Tchaikovsky
 
 <!--
