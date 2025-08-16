@@ -4,9 +4,6 @@ Welcome to Peng's world！🌎🌍🌏
 
 - 🔭 I’m currently working on **Computational Linguistics** and **NLP**
 - 😎 I want to be a **heuristic linguist**
-<!--
-- 🌱 I’m currently learning **Neural Networks & Deep Learning**
--->
 - 📫 How to reach me: [pengleee@outlook.com](mailto:pengleee@outlook.com)
 - 🎼 Fun fact: Love listening to to classical music when coding, like Tchaikovsky
 
@@ -14,6 +11,7 @@ Welcome to Peng's world！🌎🌍🌏
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 🌱 I’m currently learning **Neural Networks & Deep Learning**
 -->
 
 <!--
