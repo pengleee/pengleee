@@ -2,7 +2,7 @@
 
 Welcome to Peng's world！🌎🌍🌏
 
-- 🔭 I’m currently working on **Computational Linguistics** and **NLP**
+- 🔭 I’m currently working on **Semantics** and **Cognitive Linguistics**
 - 😎 I want to be a **heuristic linguist**
 - 📫 How to reach me: [pengleee@outlook.com](mailto:pengleee@outlook.com)
 - 🎼 Fun fact: Love listening to to classical music when coding, like Tchaikovsky
